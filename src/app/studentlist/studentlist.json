@@ -1,0 +1,20 @@
+[
+  {
+    "name":"sifiso",
+    "level": "postgrad",
+    "age": 11,
+    "address": "123 United states"
+  },
+  {
+    "name":"sifiso",
+    "level": "undergrad",
+    "age": 11,
+    "address": "123 United states"
+  },
+  {
+    "name":"sifiso",
+    "level": "postgrad",
+    "age": 11,
+    "address": "123 United states"
+  }
+]

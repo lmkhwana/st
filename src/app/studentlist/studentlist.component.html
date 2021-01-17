@@ -1,0 +1,10 @@
+<h1>Student List</h1>
+
+<ul *ngFor="let student of studentlist">
+
+    <li>
+      <p>Name: {{student.name}}</p>
+      <p>Level: {{student.level}}</p>
+      <button><a href="studentview/{{student.studentnumber}}">View More</a></button>
+    </li>
+</ul>
